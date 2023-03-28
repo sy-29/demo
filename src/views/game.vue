@@ -108,6 +108,9 @@ class CardItem {
       23: {background: '#FFC8B4'},
       24: {background: '#FFCCCC'},
       25: {background: '#FFB7DD'},
+      26: {background: '#ffffff'},
+      27: {background: '#aaaaaa'},
+      28: {background: '#eeeeee'}
    };
    static contentType = {
       1: '🥕',
